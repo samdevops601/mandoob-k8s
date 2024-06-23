@@ -23,7 +23,7 @@ spec:
         app: app
     spec:
       containers:
-      - image: maniraja1122/mandoob
+      - image: maniraja1122/mandoob:6
         imagePullPolicy: Always
         name: mandoob
         ports:
